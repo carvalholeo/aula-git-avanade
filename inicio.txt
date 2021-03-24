@@ -1,5 +1,6 @@
 Bem-vindos à aula de hoje!
 
+Alteração 10:13
 
 
 Testando alteração no arquivo do inicio. 
@@ -7,5 +8,4 @@ Testando alteração no arquivo do inicio.
 Nova alteração sendo feita em aula!
 
 Atera aqui ó
-
 
