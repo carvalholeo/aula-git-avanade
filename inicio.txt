@@ -1,3 +1,4 @@
 Bem-vindos à aula de hoje!
 
 Segundo dia em git foco na aula e no crescimento!
+Rodrigo
