@@ -1,1 +1,3 @@
 Bem-vindos à aula de hoje!
+
+Aprendendo a alterar arquivos.
