@@ -1,1 +1,3 @@
 Bem-vindos à aula de hoje!
+
+Meu nome é Rodrigo e esta é a 3º aula de git/github
