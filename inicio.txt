@@ -2,3 +2,9 @@ Bem-vindos à aula de hoje!
 
 
 Alteração do Guilherme Freire no arquivo... conflito de merge rsrsrs
+
+Testando alteração no arquivo do inicio. 
+
+Nova alteração sendo feita em aula!
+
+Atera aqui ó
