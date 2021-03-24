@@ -1,1 +1,2 @@
-Bem-vindos à aula de hoje!
+Bem-vindos à aula de hoje! 
+Hoje vamos estudar o git!
