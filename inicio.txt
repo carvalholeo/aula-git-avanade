@@ -1,1 +1,4 @@
 Bem-vindos à aula de hoje!
+
+Nova alteração sendo feita em aula pela Paloma!
+Pull request
