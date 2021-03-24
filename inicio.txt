@@ -1,5 +1,6 @@
 Bem-vindos à aula de hoje!
 
+esta é a 3º aula de git/github
 
 
 Testando alteração no arquivo do inicio. 
