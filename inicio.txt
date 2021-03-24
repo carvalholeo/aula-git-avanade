@@ -1,11 +1,3 @@
 Bem-vindos à aula de hoje!
 
-
-
-Testando alteração no arquivo do inicio. 
-
-Nova alteração sendo feita em aula!
-
-Atera aqui ó
-
-
+Alteração feita por Paulo
