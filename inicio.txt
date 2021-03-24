@@ -1,2 +1,14 @@
+
 Bem-vindos à aula de hoje! 
 Hoje vamos estudar o git!
+
+Bem-vindos à aula de hoje!
+
+
+Testando alteração no arquivo do inicio. 
+
+Nova alteração sendo feita em aula!
+
+Atera aqui ó
+
+
