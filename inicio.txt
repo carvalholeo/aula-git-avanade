@@ -1,4 +1,6 @@
-Bem-vindos à aula de hoje!
+
+
+
 
 
 Testando alteração no arquivo do inicio. 
@@ -6,4 +8,8 @@ Testando alteração no arquivo do inicio.
 Nova alteração sendo feita em aula!
 
 Atera aqui ó
+
+Segundo dia em git foco na aula e no crescimento!
+Rodrigo Barb.
+
 
