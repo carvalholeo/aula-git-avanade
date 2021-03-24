@@ -1,9 +1,9 @@
 Bem-vindos à aula de hoje!
 
+Olá, sou o Felipe. Já resolvi o conflito.
 
 Testando alteração no arquivo do inicio. 
 
 Nova alteração sendo feita em aula!
 
 Atera aqui ó
-
