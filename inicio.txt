@@ -9,3 +9,5 @@ Nova alteração sendo feita em aula!
 Atera aqui ó
 
 Criando alteração pro rebase
+
+Adiciona outro texto no rebase
